@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  portfolio-service:
+    container_name: portfolio-service-test
+    command: yarn test
