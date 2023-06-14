@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-service",
+  "name": "blog-service",
   "version": "1.0.0",
   "description": "Node.js app for portfolio",
   "bin": "bin/createNodejsApp.js",
